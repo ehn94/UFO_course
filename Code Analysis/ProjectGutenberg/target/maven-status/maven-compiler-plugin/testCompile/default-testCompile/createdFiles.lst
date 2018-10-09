@@ -1,0 +1,4 @@
+Connectors\Neo4jConnectorTest.class
+Connectors\PostgreSQLConnectorTest.class
+Frontend\FrontendTest.class
+DataAccess\PostgreSQLDataAccessTest.class

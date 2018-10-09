@@ -1,0 +1,9 @@
+Interfaces\BookInterface.class
+Model\Book.class
+REST\API.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+DataAccess\PostgreSQLDataAccess.class
+REST\ApplicationConfig.class
+Connectors\PostgreSQLConnector.class
+Connectors\Neo4jConnector.class
+DataAccess\Neo4jDataAccess.class
