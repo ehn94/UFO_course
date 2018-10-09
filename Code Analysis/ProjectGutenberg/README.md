@@ -48,3 +48,6 @@ Mener man at de er absolut nødvendige skal man overveje om man kan lave en log 
 **Ubrugte imports**
 
 Bliver de ikke brugt skal de ikke være i koden. 
+
+### Resultat
+![alt text](https://github.com/ehn94/UFO_course/blob/master/Code%20Analysis/AnalyseRes.PNG)
