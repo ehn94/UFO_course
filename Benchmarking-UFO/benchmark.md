@@ -12,7 +12,7 @@ Vi har valgt at skrive et program i Python. Programmet hedder "pingingServers.py
 
 ## Execute the experiment, which measures response times of these three servers.
 
-![Analysis Report](https://github.com/Kvetter/ufo-linq/blob/master/img/benchmark.png)
+![Analysis Report](https://github.com/ehn94/UFO_course/blob/master/Benchmarking-UFO/images/pingingServersScreenshot.png)
 
 Her er resultatet af vores eksperiment: 
 
