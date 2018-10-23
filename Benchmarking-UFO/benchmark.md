@@ -16,9 +16,11 @@ Vi har valgt at skrive et program i Python. Programmet hedder "pingingServers.py
 
 Her er resultatet af vores eksperiment: 
 
-- 128.199.144.199, gennemsnitlig 269 ms
-- 167.99.51.33, gennemsnitlig 117 ms
-- 46.101.253.149, gennemsnitlig 39 ms
+| IP              | Avg. Responsetime |
+|-----------------|-------------------|
+| 128.199.144.199 | 269 ms            |
+| 167.99.51.33    | 117 ms            |
+| 46.101.253.149  | 39 ms             |
 
 ## Evaluate your experiment and interpret the measurements and results.
 
